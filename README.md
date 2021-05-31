@@ -4,6 +4,23 @@
 
 Que sea el punto de entrada al curso de programacion fullstack en el marco de **Digitalers 2021**
 
+## Programa
+
+
+|Codigo |Nombre                                 | Fecha Inicio| Fecha Fin  | Status
+| ----- |:--------------------------------------|-------------|------------|-------:|
+| 53463 | Git: Desarrollo Colaborativo          | 17/05/2021  |	05/26/2021 | 🟢     |
+| 53442 | Python para no programadores	        | 06/02/2021  |	06/16/2021 | 🟡     |
+| 53455	| Python Programming	                | 06/21/2021  | 07/14/2021 ||
+| 53446 | Introducción a Bases de Datos y SQL   |             |		   ||
+| 53450 | Introducción al Paradigma de Objetos||||
+| 53459 | Desarrollo Web en Python Django||||
+| 53438 | Javascript desde cero||||
+| 53467 | React.JS||||
+| 53471 | Scrum Fundamentos||||
+
+
+
 ## Dinamica
 
 La idea utilizar un repositorio de git para manejar esta informacion es que pueda ser colaborativo, es decir **cualquier miembro puede participar y/o sugererir a cambios** a cualquier material expuesto bajo la organizacion [digitalers2021](https://github.com/digitalers2021).
